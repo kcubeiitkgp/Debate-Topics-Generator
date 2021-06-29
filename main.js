@@ -10,7 +10,7 @@ let topics =
 	'Does money buy happiness?',
 	'Should you eat animals ?',
 	'Digital books vs Hard copy books',
-	'Does 18+ means adult in real life?',
+	'Does age and maturity go hand in hand?',
 	'Ghosts:Fact or fiction?',
 	'Should Companies Collect Information About Us?',
 	'Is paying actors and professional athletes huge amount of money justified?',
