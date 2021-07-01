@@ -24,7 +24,7 @@ let topics =
 	'Should parents spend their hard earned money to enroll an academically weaker student in good school?',
 	'Should homework be banned for primary school children?',
 	'Should government impose more tax on ultra rich and give it to the poor?',
-	'Should children below 14 be allowed to work legally?',
+	'Should children below 14 be made to work legally?',
 	'Should social media platforms be responsible for fake news that is posted on their site?',
 	'Should apps track your location?',
 
