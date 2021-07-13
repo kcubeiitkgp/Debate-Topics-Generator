@@ -27,7 +27,22 @@ let topics =
 	'Should children below 14 be made to work legally?',
 	'Should social media platforms be responsible for fake news that is posted on their site?',
 	'Should apps track your location?',
-
+	'Should reservations be banned?',
+	'Are beauty paegents a waste of time and resources?',
+	'Should animals be used in laboratories for experiments?',
+	'Is India truly a democracy?',
+	'Is unity in India a myth?',
+	'Do celebrities have a moral obligation to be good role models?',
+	'Are advertisements boon or a bane?',
+	'Does religion have any place in modern society?',
+	'Is money the root of all evil?',
+	'Online learning v/s traditional learning',
+	'Should history be taught in schools?',
+	'Are men stronger than women?',
+	'Government job v/s Private Job',
+	'Job v/s Business',
+	'Should media be free to express their opinions and criticism?',
+	'Team sport/game v/s Individual sport/game',
 
 
 	
