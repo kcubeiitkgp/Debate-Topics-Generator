@@ -34,7 +34,7 @@ let topics =
 	'Is unity in India a myth?',
 	'Do celebrities have a moral obligation to be good role models?',
 	'Are advertisements boon or a bane?',
-	'Does religion have any place in modern society?',
+	'Does ancient culture have any place in modern society?',
 	'Is money the root of all evil?',
 	'Online learning v/s traditional learning',
 	'Should history be taught in schools?',
